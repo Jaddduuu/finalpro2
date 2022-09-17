@@ -1,7 +1,7 @@
 ## fr2:Future ready talent by syed khundmir jawad
 I have created a website about kovid and medical issues using HTML,css,Javascript. To spread awareness about many medical issues. 
 
-## my website link https://lemon-ocean-0771b8210.1.azurestaticapps.net/
+## my website link 
 
 ## Home page
 ![Screenshot (7)](https://user-images.githubusercontent.com/102740106/180844386-4c6dd6d1-4aae-4e19-9cb4-7417bfb47e41.png)
